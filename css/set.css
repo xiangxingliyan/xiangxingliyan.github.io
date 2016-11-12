@@ -124,7 +124,7 @@ figure.effect-oscar:hover img {
 
 
 /*时间canvas*/
-#data{width:25%;position: fixed;right: 0;top: 0;z-index: 999;}
+#data{width:30%;position: fixed;right: 0;top: 0;z-index: 999;}
 
 .effect-oscar{
     animate-duration: 3s;    //动画持续时间

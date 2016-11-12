@@ -25,14 +25,14 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 @media (max-width: 900px) {
 	figure.effect-oscar figcaption {padding: 20%;}
-	#data{width:40%;}
+	#data{width:50%;}
 }
 
 @media (max-width: 767px) {
 	body{font:300 12px/12px Roboto,Arial,Helvetica;}
 	#works {padding-top: 5px;}
 	/*时间canvas*/
-	#data{width:40%;}
+	#data{width:50%;}
 	#canvas{
 		width: 150px;
 		height: 60px;

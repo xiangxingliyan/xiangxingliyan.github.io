@@ -1,6 +1,6 @@
 $(function(){
 $('#data').html('<canvas id="canvas"></canvas>');
-		var WINDOW_WIDTH = 400;
+		var WINDOW_WIDTH = 300;
 		var WINDOW_HEIGHT = 120;
 		var RADIUS = 2; //球半径
 		var NUMBER_GAP = 5; //数字之间的间隙

@@ -128,8 +128,7 @@ figure.effect-oscar:hover img {
 
 .effect-oscar{
     animate-duration: 5s;    //动画持续时间
-    animate-delay: 1s;    //动画延迟时间
-    animate-iteration-count: 2;    //动画执行次数
+    animate-delay: 2s;    //动画延迟时间
 }
 @media screen and (max-width: 50em) {
 	.content {

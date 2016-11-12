@@ -126,6 +126,11 @@ figure.effect-oscar:hover img {
 /*时间canvas*/
 #data{width:30%;position: fixed;right: 0;top: 0;z-index: 999;}
 
+.effect-oscar{
+    animate-duration: 3s;    //动画持续时间
+    animate-delay: 1s;    //动画延迟时间
+    animate-iteration-count: 2;    //动画执行次数
+}
 @media screen and (max-width: 50em) {
 	.content {
 		padding: 0 10px;

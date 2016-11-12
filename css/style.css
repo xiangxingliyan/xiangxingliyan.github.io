@@ -20,19 +20,19 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.grid figure h3{font: 700 1.5em Roboto,Arial,Helvetica;}
 	figure.effect-oscar figcaption{padding: 12%;}
 	figure.effect-oscar figcaption::before,figure.effect-chico figcaption::before{top: 20px;right: 20px;bottom: 20px;left: 20px;}
-	#data{width:30%;}
+
 }
 
 @media (max-width: 900px) {
 	figure.effect-oscar figcaption {padding: 20%;}
-	#data{width:30%;}
+	#data{width:40%;}
 }
 
 @media (max-width: 767px) {
 	body{font:300 12px/12px Roboto,Arial,Helvetica;}
 	#works {padding-top: 5px;}
 	/*时间canvas*/
-	#data{width:30%;}
+	#data{width:40%;}
 	#canvas{
 		width: 150px;
 		height: 60px;

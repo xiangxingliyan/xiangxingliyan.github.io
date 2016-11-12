@@ -127,7 +127,7 @@ figure.effect-oscar:hover img {
 #data{width:25%;position: fixed;right: 0;top: 0;z-index: 999;}
 
 .effect-oscar{
-    animate-duration: 5s;    //动画持续时间
+    animate-duration: 3s;    //动画持续时间
     animate-delay: 2s;    //动画延迟时间
 }
 @media screen and (max-width: 50em) {

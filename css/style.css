@@ -20,10 +20,12 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.grid figure h3{font: 700 1.5em Roboto,Arial,Helvetica;}
 	figure.effect-oscar figcaption{padding: 12%;}
 	figure.effect-oscar figcaption::before,figure.effect-chico figcaption::before{top: 20px;right: 20px;bottom: 20px;left: 20px;}
+	#data{width:30%;}
 }
 
 @media (max-width: 900px) {
 	figure.effect-oscar figcaption {padding: 20%;}
+	#data{width:30%;}
 }
 
 @media (max-width: 767px) {

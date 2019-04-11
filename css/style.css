@@ -10,7 +10,7 @@ h4 i{margin-right: 0.5em;}
 p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 /*works*/
-#works{padding-top:5px;}
+#works{padding-top:10px;}
 #works figcaption a{border:1px solid #fff;margin-top: 1em;display: inline-block;color: #fff;padding: 0 2em;}
 #works figcaption a:hover{text-decoration: none;padding: 0 3em;}
 /*works*/
